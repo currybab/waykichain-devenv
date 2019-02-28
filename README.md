@@ -11,4 +11,4 @@ At project root folder
 sh bin/run-waykicoind-test.h
 ``` 
 
-just using `./coind`, not `./coind --data-dir=.`
+just using `./coind`, not `./coind -datadir=.`
